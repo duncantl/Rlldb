@@ -1,0 +1,12 @@
+Package: Rlldb
+Title: R interface to LLDB for debugging code directly in R
+Version: 0.1-0
+Description: This package provides an interface to the LLDB
+ API which allows us to run a debugger directly in R
+ and to have callbacks to R to allow debugging commands to be 
+ executed from R.
+Author: Duncan Temple Lang
+Maintainer: Duncan Temple Lang <duncan@r-project.org>
+License: BSD_3_clause + file LICENSE
+Imports: methods
+
